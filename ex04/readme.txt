@@ -30,7 +30,7 @@ $ npm list --depth=1 | grep @babel/plugin
 
 4. Env Preset 설정
     - 타겟 브라우저 설정하는 방식
-    - 브라우별 ex6 호환성 테이블(https://compat-table.github.io/compat-table/es6/) 참고            
+    - 브라우별 es6 호환성 테이블(https://compat-table.github.io/compat-table/es6/) 참고            
 
     "presets": [
         ["@babel/preset-env", {
